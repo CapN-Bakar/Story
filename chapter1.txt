@@ -1,0 +1,1 @@
+This is my first thorough try in using git and version control :)
